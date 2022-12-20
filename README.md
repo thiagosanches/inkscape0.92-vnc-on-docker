@@ -29,6 +29,4 @@ chmod 777 -R ./datagcodez
 ```
 
 ### Connect it through VNC
-I suggest you to use the [Remmina](https://remmina.org/) application. Create a new connection to: `localhost:5901`, type the password `forabozo` and you should be good!
-
-You can save the generated GCODEs file into `/tmp/gcodez`, and you'll be able to get it from the host computer.
+I suggest you to use the [Remmina](https://remmina.org/) application. Create a new connection to: `localhost:5901`, type the password `forabozo` and you should be good! You can save the generated GCODEs file into `/tmp/gcodez`, and you'll be able to get it from the host computer.
