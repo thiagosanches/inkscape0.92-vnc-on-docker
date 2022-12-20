@@ -1,0 +1,6 @@
+#!/bin/bash
+xrdb $HOME/.Xresources
+xsetroot -solid green
+export XKL_XMODMAP_DISABLE=1
+tint2 &
+/etc/X11/Xsession
