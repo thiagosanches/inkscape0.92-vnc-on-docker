@@ -25,7 +25,7 @@ docker-compose up
 
 ### Change the mount volume permissions
 ```bash
-chmod 777 -R ./datagcodez
+sudo chmod 777 -R ./datagcodez
 ```
 
 ### Connect it through VNC
