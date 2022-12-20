@@ -9,8 +9,8 @@ Unfortunatelly, on newer versions of Inkscape the [MI-GRBL-Z-AXIS-Servo-Controll
 
 ### Clone
 ```bash
-git clone https://github.com/thiagosanches/inskcape0.92-vnc-on-docker.git
-cd inskcape0.92-vnc-on-docker
+git clone https://github.com/thiagosanches/inkscape0.92-vnc-on-docker.git
+cd inkscape0.92-vnc-on-docker
 ```
 
 ### Build
