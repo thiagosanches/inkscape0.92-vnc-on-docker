@@ -3,7 +3,7 @@ Docker image that contains a specific version (0.92) of Inkscape where it's poss
 
 
 ### Introduction
-I deciced to create this image, because I have to use a plugin that generates GCODEs for CNC machines. However, this plugin works only on older versions of Inkscape.
+I decided to create this image, because I have to use a plugin that generates GCODE for CNC machines. However, this plugin works only on older versions of Inkscape.
 
 Unfortunately, on newer versions of Inkscape the [MI-GRBL-Z-AXIS-Servo-Controller](https://github.com/ikae/MI-GRBL-Z-AXIS-Servo-Controller) plugin doesn't work properly (I believe that is something related to python3). So, I had to create this image in order to have a way to generate the GCODEs properly.
 
